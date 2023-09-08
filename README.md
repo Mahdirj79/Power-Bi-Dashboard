@@ -1,5 +1,5 @@
 # Power-Bi-Dashboard
-This GitHub repository contains a 2 Power BI dashboard that I've developed to visualize and analyze data.
+This GitHub repository contains 2 Power BI dashboard that I've developed to visualize and analyze data.
 
 # Dashboard 1
 ![Dashboard_1_3](https://github.com/Mahdirj79/Power-Bi-Dashboard/assets/139322766/710165e6-c8e6-49d6-8bb7-11593591a338)
